@@ -1,0 +1,51 @@
+/* ページ本文のスタイル */
+.otree-body {
+    font-size: 16px;
+    color: #FF0000; /* 赤色のテキスト */
+  }
+  
+  /* ページタイトルのスタイル */
+  .otree-title {
+    font-family: "Comic Sans MS", cursive;
+    font-size: 24px;
+    color: #0000FF; /* 青色のテキスト */
+  }
+  
+  /* 待機ページのスタイル */
+  .otree-wait-page {
+    background-color: #FFFF00; /* 黄色の背景色 */
+  }
+  
+  /* 待機ページのダイアログタイトルのスタイル */
+  .otree-wait-page__title {
+    font-weight: bold;
+    color: #008000; /* 緑色のテキスト */
+  }
+  
+  /* 待機ページのダイアログ本文のスタイル */
+  .otree-wait-page__body {
+    font-size: 18px;
+  }
+  
+  /* タイマーのスタイル */
+  .otree-timer {
+    font-family: "Arial", sans-serif;
+    font-size: 20px;
+    color: #800080; /* 紫色のテキスト */
+  }
+  
+  /* 次へボタンのスタイル */
+  .otree-btn-next {
+    background-color: #FFC0CB; /* ピンク色の背景色 */
+    border: none;
+    color: #FFFFFF; /* 白色のテキスト */
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* フォームエラーの警告のスタイル */
+  .otree-form-errors {
+    color: #FF0000; /* 赤色のテキスト */
+  }
+  
